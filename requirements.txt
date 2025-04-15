@@ -1,0 +1,16 @@
+requests
+openai>=1.0.0 # Ensure v1+ for new syntax
+praw
+prawcore
+beautifulsoup4
+pytrends
+google-api-python-client
+python-dotenv
+playwright>=1.40 # Use a recent version
+tenacity # For retry decorators
+streamlit
+markdown
+vaderSentiment
+# weasyprint # Add this if using WeasyPrint PDF engine
+# cryptography # Add this if using credential encryption
+# pandas # Add this for dashboard charts
